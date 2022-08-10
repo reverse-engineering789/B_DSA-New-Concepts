@@ -10,7 +10,7 @@ let peakIndex = (arr) => {
 
     while (s < e){
         if (arr[mid] < arr[mid + 1]){
-           s = mid + 1
+           s = mid + 
         }else{
             e = mid
         }
