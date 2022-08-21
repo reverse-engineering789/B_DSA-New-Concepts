@@ -23,7 +23,7 @@ let pbv = (n) => {
      console.log(n)
 }
 
-let n = 4 
+let n = 4
 
 pbv(n)
 
